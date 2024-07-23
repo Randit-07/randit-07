@@ -2,8 +2,7 @@
 
 
 <p align="center" width="100%">
-    <img src="![image](https://github.com/user-attachments/assets/17f41715-ea58-459e-97a8-ea5ca210bd01)
-"> 
+    <img src="![image](https://github.com/user-attachments/assets/17f41715-ea58-459e-97a8-ea5ca210bd01)"> 
 </p>
 
 
