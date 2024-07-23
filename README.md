@@ -11,11 +11,11 @@ This is **Randit-07/** Repository is a ✨ _welcome_ ✨.
 <dt>Name</dt>
 <dd>TESING </dd>
 <dt>Linkedin</dt>
-<dd>![link](https://www.google.com)</dd>
+<dd>[Link to another page](https://www.google.com)</dd>
 <dt>Resume Link</dt>
-<dd>![link](https://www.google.com)</dd>
+<dd>![Link to another page](https://www.google.com)</dd>
 <dt>Github Profile</dt>
-<dd>![link](https://github.com/Randit-07)</dd>
+<dd>[Link to another page](https://github.com/Randit-07)</dd>
 </dl>
 
 
