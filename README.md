@@ -16,7 +16,7 @@ I am a passionate developer with a love for problem-solving and continuous learn
   <dd><a href="https://www.linkedin.com/in/idris-h-8aa78b249/">Idris H.</a></dd>
   
   <dt>Resume Link</dt>
-  <dd><a href="https://github.com/Randit-07/randit-07/blob/main/main.tex">Resume</a></dd>
+  <dd><a href="https://github.com/Randit-07/randit-07/blob/main/resume.pdf">Resume</a></dd>
   
   <dt>GitHub Profile</dt>
   <dd><a href="https://github.com/Randit-07">Randit-07</a></dd>
