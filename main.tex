@@ -1,0 +1,184 @@
+%-------------------------
+% Resume in Latex
+% Author : Idris Hassan
+% Based off of: https://github.com/Randit-07
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+
+\usepackage{latexsym}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{tabularx}
+\input{glyphtounicode}
+
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.5in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+\raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+  \vspace{-4pt}\scshape\raggedright\large
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generated pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+\newcommand{\resumeItem}[1]{
+  \item\small{
+    {#1 \vspace{-2pt}}
+  }
+}
+
+\newcommand{\resumeSubheading}[4]{
+  \vspace{-2pt}\item
+    \begin{tabular*}{0.97\textwidth}[t]{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\tiny$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0.15in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\begin{document}
+
+%----------HEADING----------
+% \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+%   \textbf{\href{http://sourabhbajaj.com/}{\Large Sourabh Bajaj}} & Email : \href{mailto:sourabh@sourabhbajaj.com}{sourabh@sourabhbajaj.com}\\
+%   \href{http://sourabhbajaj.com/}{http://www.sourabhbajaj.com} & Mobile : +1-347-552-6596 \\
+% \end{tabular*}
+
+\begin{center}
+    \textbf{\Huge \scshape Idris Hassan} \\ \vspace{1pt}
+     $|$ \href{mailto:idr.has05@gmail.com}{\underline{idr.has05@gmail.com}} $|$ 
+        \href{https://github.com/Randit-07}{\underline{github.com/Randit-07}}
+\end{center}
+
+
+%-----------EDUCATION-----------
+\section{Education}
+  \resumeSubHeadingListStart
+    \resumeSubheading
+      {College Of Staten Island}{Staten Island, NY}
+      {Bachelor of Arts in Computer Science}{Aug. 2021 -- June 2025}
+  \resumeSubHeadingListEnd
+
+
+%-----------EXPERIENCE-----------
+\section{Experience}
+  \resumeSubHeadingListStart
+
+    \resumeSubheading
+      {NYPD Law Enforcement Explorers}{Staten Island, NY}
+      {121 Precinct}{Oct. 2018 -- Mar. 2020}
+      \resumeItemListStart
+        \resumeItem{Practiced police crime scenarios that helped build skills such as teamwork, critical decision-making, and attention to detail}
+        \resumeItem{Volunteered for community events under the program (march during local parades, volunteer at events; operating snacks/food stands, directing people, and providing excellent customer service, community cleanup, led Food Drives)}
+        \resumeItem{Led teams in scenario competitions against other precincts}
+      \resumeItemListEnd
+      
+  \resumeSubHeadingListEnd
+
+
+%-----------PROJECTS-----------
+\section{Projects}
+  \resumeSubHeadingListStart
+    \resumeProjectHeading
+        {\textbf{Hangman} $|$ \emph{C++, Replit}}{}
+        \resumeItemListStart
+          \resumeItem{Developed a Hangman game in C++ leveraging OOP-based system and a custom-built header for enhanced functionality}
+          \resumeItem{Initiated during my freshman year, this project has evolved significantly over time, benefiting from iterative enhancements driven by advancing programming expertise}
+          \resumeItem{Each iteration was purposefully designed to optimize and augment the game's efficiency and effectiveness, reflecting cumulative improvements in programming skills}
+        \resumeItemListEnd
+    \resumeProjectHeading
+        {\textbf{Spotify API} $|$ \emph{Replit, JavaScript, React, HTML, CSS}}{}
+        \resumeItemListStart
+          \resumeItem{Proficiently handled HTTPS requests, created request objects, and processed data dynamically}
+          \resumeItem{Successfully managed Spotify API access tokens, implemented caching, and interacted with various API endpoints}
+          \resumeItem{Demonstrated skills in defining web page structure, handling API endpoints, and providing dynamic functionalities for an enhanced user experience}\resumeItemListEnd
+          {\textbf{Trivia Game} $|$ \emph{Replit, Java,HTTP Client & Gson Libraries, Docker}}{}
+        \resumeItemListStart
+          \resumeItem{Applied principles of object-oriented programming to create reusable and maintainable code.}
+          \resumeItem{ Designed and implemented the quiz game application using Java, including both back-end and front-end functionalities}
+          \resumeItem{Integrated a REST API and used PostgreSQL to store users accounts and leader board scores}
+        \resumeItemListEnd
+  \resumeSubHeadingListEnd
+
+
+
+%-----------TECHNICAL SKILLS-----------
+\section{Technical Skills}
+ \begin{itemize}[leftmargin=0.15in, label={}]
+    \small{\item{
+     \textbf{Languages}{: Java, Python, C/C++, SQL (Postgres), JavaScript, HTML/CSS, Assembly} \\
+     \textbf{Frameworks}{: React, WordPress, Material-UI, FastAPI} \\
+     \textbf{Developer Tools}{: Git, GitHub, Docker, VS Code, Visual Studio, Postman, IntelliJ, Eclipse} \\
+    }}
+ \end{itemize}
+
+
+%-------------------------------------------
+\end{document}
