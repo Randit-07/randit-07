@@ -1,7 +1,7 @@
 <!--## Hi there 👋-->
 
 <p align="center" width="100%">
-    <img src="https://github.com/Randit-07/randit-07/blob/main/idris.png" alt="Profile Image"> 
+    <!--<img src="https://github.com/Randit-07/randit-07/blob/main/idris.png" alt="Profile Image"> -->
 </p>
 
 This is the **Randit-07/** repository. Welcome! ✨
