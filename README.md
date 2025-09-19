@@ -65,9 +65,9 @@ I'm a passionate software engineer specializing in full-stack development, cloud
 
 ## 🌟 Projects
 
-- [CSI Spotlight](https://github.com/Randit-07/csi-spotlight): Next.js, Node.js, Express, Supabase – Event & project highlight platform with scalable APIs and secure token-based auth.
-- [Cert Gram](https://github.com/Randit-07/cert-gram): React, Node.js, Express, Supabase – Concert-based social app, TicketMaster API, real-time chat, secure onboarding.
-- [CUNYGPT](https://github.com/Randit-07/cunygpt): Python, MongoDB, OpenAI API, Next.js – AI-powered resource finder for CUNY students; Selenium web scraping.
+- [CSI Spotlight](https://github.com/Randit-07/CUNY-SPOTLIGHT): Next.js, Node.js, Express, Supabase – Event & project highlight platform with scalable APIs and secure token-based auth.
+- [Cert Gram](https://github.com/Randit-07/syncwave): React, Node.js, Express, Supabase – Concert-based social app, TicketMaster API, real-time chat, secure onboarding.
+- [CUNYGPT](https://github.com/mao-99/cunyGPT): Python, MongoDB, OpenAI API, Next.js – AI-powered resource finder for CUNY students; Selenium web scraping.
 - [Church Website](https://github.com/Randit-07/church-website): React – Responsive website with video embedding and improved accessibility.
 - [Trivia Game](https://github.com/Randit-07/trivia-game): Java, React, Open DB API – Full-stack trivia app with real-time leaderboard and secure account management.
 
