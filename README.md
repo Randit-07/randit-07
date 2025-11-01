@@ -74,7 +74,7 @@ I'm a passionate software engineer specializing in full-stack development, cloud
 - [Cert Gram](https://github.com/Randit-07/syncwave): React, Node.js, Express, Supabase – Concert-based social app, TicketMaster API, real-time chat, secure onboarding.
 - [CUNYGPT](https://github.com/mao-99/cunyGPT): Python, MongoDB, OpenAI API, Next.js – AI-powered resource finder for CUNY students; Selenium web scraping.
 - [Church Website](https://github.com/Randit-07/church-website): React – Responsive website with video embedding and improved accessibility.
-- [Trivia Game](https://github.com/Randit-07/OPEN-DB-TRIVIA-API): Java, React, Open DB API – Full-stack trivia app with real-time leaderboard and secure account management.
+- [Trivia Game](https://github.com/Randit-07/Trivia-Game): Java, React, Open DB API – Full-stack trivia app with real-time leaderboard and secure account management.
 
 ---
 
