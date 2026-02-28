@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/github/followers/Randit-07?label=Follow&style=social" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/idris-h-8aa78b249/">
-    <img src="https://img.shields.io/badge/LinkedIn-Idris%20H.-blue?style=flat-square&logo=linkedin" />
+    <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)(#)" />
   </a>
   <a href="https://github.com/Randit-07/randit-07/blob/main/resume.pdf">
     <img src="https://img.shields.io/badge/Resume-View-blue?style=flat-square&logo=adobeacrobatreader" />
