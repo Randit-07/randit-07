@@ -1,7 +1,7 @@
 <!-- Modern GitHub Profile README for Randit-07 -->
 
 <p align="center">
-  <img src="https://typingsvg.vercel.app/api/svg?width=1500&backgroundColor=%23000000&border=false&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22I%27m+Randit-07%2C+a+Software+Engineer.+I+love+Automation%2C+innovation+through+curiosity%28breaking+and+fixing+things%29.%22%2C%22color%22%3A%22%23f2ea02%22%2C%22typingSpeed%22%3A0.19379844961240308%2C%22deleteSpeed%22%3A0.3333333333333333%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D">
+  <img src="https://typingsvg.vercel.app/api/svg?width=3000&height=500&backgroundColor=%23ffff00&backgroundOpacity=0.63&cursorStyle=underline&lines=%5B%7B%22text%22%3A%22A+Software+Engineer.+I+love+Automation%2C+innovation+through+curiosity%28breaking+and+fixing+things%29.%22%2C%22color%22%3A%22%230000ff%22%2C%22fontSize%22%3A37%2C%22typingSpeed%22%3A0.19379844961240308%2C%22deleteSpeed%22%3A0.3333333333333333%7D%2C%7B%22text%22%3A%22And+Emojis%21+%F0%9F%98%80%F0%9F%9A%80%22%7D%5D">
 </p>
 
 <p align="center">
