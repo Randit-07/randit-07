@@ -68,6 +68,8 @@ I'm a passionate software engineer specializing in full-stack development, cloud
 ---
 
 ## 🌟 Projects
+- [INJ2M](https://inj2m.vercel.app): full-stack wiki and build-optimisation platform for Injustice 2 Mobile in TypeScript (React, Express,
+Supabase), covering 16 routes across characters, artifacts, raids, builds, teams, and a stats optimiser serving live community traffic.
 
 - [CSI Spotlight](https://github.com/Randit-07/CUNY-SPOTLIGHT): Next.js, Node.js, Express, Supabase – Event & project highlight platform with scalable APIs and secure token-based auth.
 - [Cert Gram](https://github.com/Randit-07/syncwave): React, Node.js, Express, Supabase – Concert-based social app, TicketMaster API, real-time chat, secure onboarding.
